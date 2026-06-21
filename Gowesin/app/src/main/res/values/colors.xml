@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Emerald Palette -->
+    <color name="pastel_green">#00C675</color> <!-- Repurposed as Primary Emerald -->
+    <color name="pastel_green_light">#E6F9F1</color> <!-- Soft Tint -->
+    <color name="pastel_green_dark">#00A86B</color> <!-- Dark Mint -->
+    <color name="pastel_yellow">#FFF3CD</color>
+    <color name="pastel_blue">#E3F2FD</color>
+    <color name="pastel_red">#FFEBEE</color>
+
+    <color name="background">#F8F9FA</color> <!-- Off-White -->
+    <color name="card_background">#FFFFFF</color> <!-- Pure White -->
+    <color name="text_primary">#1A1A2E</color> <!-- Dark Slate -->
+    <color name="text_secondary">#6C7A89</color> <!-- Slate Gray -->
+
+    <color name="primary">#00C675</color>
+    <color name="primary_dark">#00A86B</color>
+    <color name="accent">#F1C40F</color>
+
+    <color name="black">#1A1A2E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#E74C3C</color>
+
+    <!-- Status colors -->
+    <color name="success">#00C675</color>
+    <color name="error">#E74C3C</color>
+    <color name="divider">#EEEEEE</color>
+</resources>
